@@ -1,50 +1,21 @@
-# Hi there, I'm Al Hakeem Alhassan! 👋
+# 💫 About Me:
+# Hi there, I'm Al Hakeem Alhassan! 👋<br><br>🎓 **Aspiring Developer & Cybersecurity Expert**  <br>Currently a passionate software engineering student, I'm on a journey to become a skilled developer and cybersecurity professional. I love exploring how technology can be leveraged to solve complex problems and make the world smarter and safer.<br><br>---<br><br>## 🚀 About Me<br><br>- 🔐 Ethical Hacking Enthusiast<br>- 🐍 Python Scripting & Desktop App Developer<br>- 🤖 Creative Thinker & AI Explorer<br>- ✍️ Writer of Intelligent, Engaging Articles<br>- 💡 Driven by curiosity, I enjoy diving into new tech domains and challenging myself with thought-provoking projects.<br><br>---<br><br>## 🛠️ Skills<br><br>- **Ethical Hacking**<br>- **Python Scripting & Development**<br>- **AI Utilization**<br>- **Creative Problem Solving**<br>- **Technical Writing**<br><br>---<br><br>## 📈 GitHub Journey<br><br>I’m new to GitHub and excited to start building, collaborating, and sharing projects with the developer community. Stay tuned for innovative repositories and contributions!<br><br>---<br><br>---<br><!-- Github Stats Card --><br><br>---<br><br><br>## ✨ Fun Fact<br><br>> "I believe that there is nothing that I cannot achieve if I put my mind to it."<br><br>---<br><br><!-- Social links go here when you’re ready to add them! --><br><br>---<br><br>Thanks for visiting my profile! Let’s connect, collaborate, and create something amazing together 🚀<br>
 
-🎓 **Aspiring Developer & Cybersecurity Expert**  
-Currently a passionate software engineering student, I'm on a journey to become a skilled developer and cybersecurity professional. I love exploring how technology can be leveraged to solve complex problems and make the world smarter and safer.
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alhakeemal123@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlHakeemAlhassan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlHakeemAlhassan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlHakeemAlhassan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔐 Ethical Hacking Enthusiast
-- 🐍 Python Scripting & Desktop App Developer
-- 🤖 Creative Thinker & AI Explorer
-- ✍️ Writer of Intelligent, Engaging Articles
-- 💡 Driven by curiosity, I enjoy diving into new tech domains and challenging myself with thought-provoking projects.
-
----
-
-## 🛠️ Skills
-
-- **Ethical Hacking**
-- **Python Scripting & Development**
-- **AI Utilization**
-- **Creative Problem Solving**
-- **Technical Writing**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AlHakeemAlhassan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AlHakeemAlhassan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Journey
-
-I’m new to GitHub and excited to start building, collaborating, and sharing projects with the developer community. Stay tuned for innovative repositories and contributions!
-
----
-
----
-<!-- Github Stats Card -->
-
----
-
-
-## ✨ Fun Fact
-
-> "I believe that there is nothing that I cannot achieve if I put my mind to it."
-
----
-
-<!-- Social links go here when you’re ready to add them! -->
-
----
-
-Thanks for visiting my profile! Let’s connect, collaborate, and create something amazing together 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
